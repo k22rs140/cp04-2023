@@ -5,6 +5,10 @@
 
     }
 
+    button{
+        color: blue;
+    }
+
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
